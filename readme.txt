@@ -1,3 +1,9 @@
+
+Website for book-in-progress 'Among Digitized Manuscripts' by C. van Lit.
+
+Built using Glint, see below.
+
+
 ==================================================================================================
 
 DESCRIPTION:
